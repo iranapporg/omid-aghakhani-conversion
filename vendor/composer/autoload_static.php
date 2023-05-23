@@ -7,7 +7,7 @@ namespace Composer\Autoload;
 class ComposerStaticInitaa75611dc34894d37ea367db20cb7908
 {
     public static $files = array (
-        'bf3fe46a202d63ff2331f66d69641292' => __DIR__ . '/../..' . '/src/conversion_helper.php',
+        'f953a7ad743b42e01cad79625f2bfe94' => __DIR__ . '/../..' . '/src/conversion_helper.php',
     );
 
     public static $classMap = array (

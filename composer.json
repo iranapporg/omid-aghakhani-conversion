@@ -1,5 +1,5 @@
 {
-    "name": "helper/conversion",
+    "name": "omid-aghakhani/conversion",
     "description": "contain function about convert or date and other",
     "type": "library",
     "license": "GPL",
