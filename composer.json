@@ -2,6 +2,9 @@
     "name": "omid-aghakhani/conversion",
     "description": "contain function about convert or date and other",
     "type": "library",
+	"version":"1.0.0",
+	"license":"MIT",
+	"authors":[{"name":"Omid Aghakhani","email":"info@iranapp.org","role":"owner"}],
     "require": {},
 	"autoload": {
 		"files": [
