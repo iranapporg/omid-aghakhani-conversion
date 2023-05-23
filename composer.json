@@ -1,0 +1,12 @@
+{
+    "name": "helper/conversion",
+    "description": "contain function about convert or date and other",
+    "type": "library",
+    "license": "GPL",
+    "require": {},
+	"autoload": {
+		"files": [
+			"src/conversion_helper.php"
+			]
+	}
+}
